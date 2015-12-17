@@ -1,0 +1,1 @@
+mobil medical terms dictionary with python programming lang. on symbian os for nokia 6600 2.end mobil phone.
